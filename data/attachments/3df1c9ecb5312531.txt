@@ -1,0 +1,24 @@
+2025-05-26 15:14:10,930 - INFO - Filling task name: 'Buy milk'
+2025-05-26 15:14:11,436 - INFO - Clicking Create Task button
+2025-05-26 15:14:12,601 - INFO - Tasks after add: []
+2025-05-26 15:14:15,499 - INFO - Filling task name: 'Do laundry'
+2025-05-26 15:14:15,966 - INFO - Clicking Create Task button
+2025-05-26 15:14:17,152 - INFO - Tasks after add: []
+2025-05-26 15:14:20,593 - INFO - Clicking Create Task with empty input
+2025-05-26 15:14:21,048 - INFO - Navigate back to main tasks
+2025-05-26 15:14:21,222 - INFO - Tasks after empty submission: []
+2025-05-26 15:14:24,464 - INFO - Filling task name field with: 'This is a very long task name that exceeds the 40 character limit for validation testing' (length: 88 characters)
+2025-05-26 15:14:24,929 - INFO - Validation error message: Name should be less than or equal to 40 characters
+2025-05-26 15:14:27,595 - INFO - Filling task name: 'Task 1: Buy groceries'
+2025-05-26 15:14:28,091 - INFO - Clicking Create Task button
+2025-05-26 15:14:37,978 - INFO - Filling task name: 'Complete me'
+2025-05-26 15:14:38,347 - INFO - Clicking Create Task button
+2025-05-26 15:14:47,133 - INFO - Filling task name: 'Old task'
+2025-05-26 15:14:47,504 - INFO - Clicking Create Task button
+2025-05-26 15:14:52,650 - INFO - Filling task name: 'Remove me'
+2025-05-26 15:14:53,111 - INFO - Clicking Create Task button
+2025-05-26 15:14:58,166 - INFO - Filling task name: 'One'
+2025-05-26 15:14:58,547 - INFO - Clicking Create Task button
+2025-05-26 15:15:03,406 - INFO - Filling task name: 'Task 1'
+2025-05-26 15:15:03,812 - INFO - Clicking Create Task button
+2025-05-26 15:15:13,128 - INFO - Page load time: 876 ms

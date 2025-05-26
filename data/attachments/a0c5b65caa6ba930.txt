@@ -1,0 +1,1 @@
+INFO     tests.test_tasks:test_tasks.py:185 Page load time: 876 ms

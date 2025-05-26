@@ -1,0 +1,3 @@
+INFO     pages.add_task_page:add_task_page.py:39 Clicking Create Task with empty input
+INFO     pages.add_task_page:add_task_page.py:45 Navigate back to main tasks
+INFO     tests.test_tasks:test_tasks.py:40 Tasks after empty submission: []

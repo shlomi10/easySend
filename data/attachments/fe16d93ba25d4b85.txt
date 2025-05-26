@@ -1,0 +1,2 @@
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Remove me'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
