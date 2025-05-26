@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+reports/
+reports-html/
+allure-results/
+.idea/
+venv/
+output.json
+pytest_html_report.html
+*.py[cod]
+.vscode/
+.DS_Store
+Thumbs.db
+
+
