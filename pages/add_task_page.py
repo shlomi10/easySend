@@ -27,6 +27,7 @@ class AddTaskPage(BasePage):
         log.info(f"Filling task name: '{text}'")
         self.fill(self.task_name_input, text)
         log.info("Clicking Create Task button")
+        self.wait_for()
         self.click(self.create_task_button, force= True)
 
     @allure.step("Fill task name only: {text}")

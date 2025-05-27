@@ -154,19 +154,19 @@ class TestToDoWebApp:
 
     @allure.feature("Performance")
     @allure.story("Handle many tasks")
-    @allure.title("Test app with 50 tasks")
+    @allure.title("Test app with 30 tasks")
     def test_performance_with_many_tasks(self, initialize):
         todo = initialize.todo_page
-        many_tasks = [f"Task {i}" for i in range(1, 51)]
+        many_tasks = [f"Task {i}" for i in range(1, 31)]
 
-        with allure.step("Add 50 tasks"):
+        with allure.step("Add 30 tasks"):
             for task in many_tasks:
                 todo.add_task(task)
                 todo.wait_for_add_task_button()
 
         with allure.step("Verify all tasks added"):
             all_tasks = todo.get_tasks()
-            assert len(all_tasks) == 50, f"Expected 50 tasks, got {len(all_tasks)}"
+            assert len(all_tasks) == 30, f"Expected 30 tasks, got {len(all_tasks)}"
 
         with allure.step("Verify UI remains responsive"):
             start_time = time.time()

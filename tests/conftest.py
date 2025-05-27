@@ -23,22 +23,24 @@ logging.getLogger().setLevel(logging.INFO)
 @pytest.fixture(scope="function", autouse=True)
 def initialize(request):
     with sync_playwright() as playwright:
-        # is_headless = True
-
         is_headless = os.getenv("HEADLESS", "false").lower() == "true"
+
+        window_args = ["--disable-blink-features=AutomationControlled"]
+        if not is_headless:
+            window_args.append("--start-maximized")
 
         browser = playwright.chromium.launch(
             headless=is_headless,
-            args=["--disable-blink-features=AutomationControlled"]
+            args=window_args
         )
 
         context = browser.new_context(
             locale="en-US",
-            viewport={"width": 1920, "height": 1080},
-            screen={"width": 1920, "height": 1080}
+            viewport=None  # allows real window size (native maximized)
         )
 
         page = context.new_page()
+
         context.tracing.start(screenshots=True, snapshots=True, sources=True)
 
         base_class = BaseClass(page)

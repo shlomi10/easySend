@@ -44,6 +44,7 @@ class TodoPage(BasePage):
     def wait_for_add_task_button(self):
         self.wait_for()
         self.wait_for_element_to_be_visible_and_clickable(self.add_task_button)
+        self.wait_for()
 
     @allure.step("Get current task titles")
     def get_tasks(self):
