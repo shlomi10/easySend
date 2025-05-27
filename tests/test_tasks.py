@@ -159,7 +159,7 @@ class TestToDoWebApp:
         todo = initialize.todo_page
         many_tasks = [f"Task {i}" for i in range(1, 51)]
 
-        with allure.step("Add 100 tasks"):
+        with allure.step("Add 50 tasks"):
             for task in many_tasks:
                 todo.add_task(task)
                 todo.wait_for_add_task_button()
