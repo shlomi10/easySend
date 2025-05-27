@@ -21,6 +21,11 @@ class BasePage:
         """Wait for a page"""
         self.page.wait_for_timeout(timeout=timeout)
 
+    def wait_for_element_not_to_be_visible(self):
+        self.wait_for(3000)
+        expect(self.page.locator("text=Preparing app for offline use...")).not_to_be_visible()
+        expect(self.page.locator("text=App is ready to work offline.")).not_to_be_visible()
+
     def wait_for_element_to_be_visible_locator(self, element: Locator, timeout: int = 5000):
         """Wait for an element to be visible (expects a locator)."""
         expect(element).to_be_visible(timeout=timeout)

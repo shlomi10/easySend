@@ -1,4 +1,4 @@
-from playwright.sync_api import Page
+from playwright.sync_api import Page, expect
 from pages.base_page import BasePage
 from pages.add_task_page import AddTaskPage
 import allure
@@ -37,6 +37,7 @@ class TodoPage(BasePage):
     @allure.step("Add task through /add screen: {text}")
     def add_task(self, text: str):
         form = self.open_add_task_screen()
+        self.wait_for_element_not_to_be_visible()
         form.submit_task(text)
         self.wait_for()
 

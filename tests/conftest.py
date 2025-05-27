@@ -36,10 +36,15 @@ def initialize(request):
 
         context = browser.new_context(
             locale="en-US",
-            viewport=None  # allows real window size (native maximized)
+            no_viewport=True
         )
 
         page = context.new_page()
+
+        if not is_headless:
+            page.evaluate("window.moveTo(0, 0); window.resizeTo(screen.availWidth, screen.availHeight);")
+            window_size = page.evaluate("""() => { return { width: window.innerWidth, height: window.innerHeight }; }""")
+            page.set_viewport_size(window_size)
 
         context.tracing.start(screenshots=True, snapshots=True, sources=True)
 
