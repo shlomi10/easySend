@@ -8,7 +8,7 @@
 [![Allure](https://img.shields.io/badge/allure-reports-yellow.svg)](https://docs.qameta.io/allure/)
 [![Docker](https://img.shields.io/badge/docker-supported-blue.svg)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/shlomi10/EasySend/workflow.yml?label=CI%20Build&style=for-the-badge&logo=github-actions)](https://github.com/shlomi10/EasySend/actions)
-[![Allure Report](https://img.shields.io/badge/Allure%20Report-View%20Live-purple?style=for-the-badge&logo=github)](https://shlomi10.github.io/EasySend/)
+[![Allure Report](https://img.shields.io/badge/Allure%20Report-View%20Live-purple?style=for-the-badge&logo=github)](https://shlomi10.github.io/easySend/#)
 
 
 **Modern E2E Test Automation Framework for Todo Web Application**
@@ -240,7 +240,7 @@ The framework generates comprehensive Allure reports with:
 - **Local**: `allure serve allure-results`
 - **Docker**: `http://localhost:5050/allure-docker-service/projects/default/reports/latest/index.html`
 - **CI/CD**: Download artifacts from GitHub Actions
-- **Live Report**: [View Live Allure Report](https://shlomi10.github.io/EasySend/)
+- **Live Report**: [View Live Allure Report](https://shlomi10.github.io/easySend/#)
 
 ## 🛠️ Development
 
