@@ -1,0 +1,105 @@
+2025-05-27 10:35:06,000 - INFO - Filling task name: 'Buy milk'
+2025-05-27 10:35:06,042 - INFO - Clicking Create Task button
+2025-05-27 10:35:08,187 - INFO - Tasks after add: ['Buy milk']
+2025-05-27 10:35:20,535 - INFO - Filling task name: 'Do laundry'
+2025-05-27 10:35:20,575 - INFO - Clicking Create Task button
+2025-05-27 10:35:22,707 - INFO - Tasks after add: ['Do laundry']
+2025-05-27 10:35:24,169 - INFO - Clicking Create Task with empty input
+2025-05-27 10:35:24,370 - INFO - Navigate back to main tasks
+2025-05-27 10:35:24,481 - INFO - Tasks after empty submission: []
+2025-05-27 10:35:25,789 - INFO - Filling task name field with: 'This is a very long task name that exceeds the 40 character limit for validation testing' (length: 88 characters)
+2025-05-27 10:35:25,981 - INFO - Validation error message: Name should be less than or equal to 40 characters
+2025-05-27 10:35:33,224 - INFO - Filling task name: 'Task 1: Buy groceries'
+2025-05-27 10:35:33,278 - INFO - Clicking Create Task button
+2025-05-27 10:35:37,426 - INFO - Added task 1: Task 1: Buy groceries
+2025-05-27 10:35:40,507 - INFO - Filling task name: 'Task 2: Call dentist'
+2025-05-27 10:35:40,535 - INFO - Clicking Create Task button
+2025-05-27 10:35:44,664 - INFO - Added task 2: Task 2: Call dentist
+2025-05-27 10:35:47,724 - INFO - Filling task name: 'Task 3: Review project documents'
+2025-05-27 10:35:47,750 - INFO - Clicking Create Task button
+2025-05-27 10:35:51,856 - INFO - Added task 3: Task 3: Review project documents
+2025-05-27 10:35:54,904 - INFO - Filling task name: 'Task 4: Schedule team meeting'
+2025-05-27 10:35:54,926 - INFO - Clicking Create Task button
+2025-05-27 10:35:59,027 - INFO - Added task 4: Task 4: Schedule team meeting
+2025-05-27 10:36:02,075 - INFO - Filling task name: 'Task 5: Update software licenses'
+2025-05-27 10:36:02,099 - INFO - Clicking Create Task button
+2025-05-27 10:36:06,216 - INFO - Added task 5: Task 5: Update software licenses
+2025-05-27 10:36:06,238 - INFO - All tasks after adding multiple: ['Task 1: Buy groceries', 'Task 2: Call dentist', 'Task 3: Review project documents', 'Task 4: Schedule team meeting', 'Task 5: Update software licenses']
+2025-05-27 10:36:06,238 - INFO - Expected tasks count: 5, Actual tasks count: 5
+2025-05-27 10:36:06,238 - INFO - All multiple tasks successfully added and verified
+2025-05-27 10:36:14,922 - INFO - Filling task name: 'Complete me'
+2025-05-27 10:36:14,973 - INFO - Clicking Create Task button
+2025-05-27 10:36:17,659 - INFO - Tasks after marking complete: ['Complete me']
+2025-05-27 10:36:25,103 - INFO - Filling task name: 'Old task'
+2025-05-27 10:36:25,142 - INFO - Clicking Create Task button
+2025-05-27 10:36:27,836 - INFO - Edited task name: ['New task']
+2025-05-27 10:36:36,231 - INFO - Filling task name: 'Remove me'
+2025-05-27 10:36:36,283 - INFO - Clicking Create Task button
+2025-05-27 10:36:39,024 - INFO - Tasks after delete: []
+2025-05-27 10:36:46,436 - INFO - Filling task name: 'One'
+2025-05-27 10:36:46,476 - INFO - Clicking Create Task button
+2025-05-27 10:36:51,662 - INFO - Filling task name: 'Two'
+2025-05-27 10:36:51,692 - INFO - Clicking Create Task button
+2025-05-27 10:36:54,346 - INFO - Visible tasks after completed: 1
+2025-05-27 10:37:01,871 - INFO - Filling task name: 'Task 1'
+2025-05-27 10:37:01,922 - INFO - Clicking Create Task button
+2025-05-27 10:37:09,138 - INFO - Filling task name: 'Task 2'
+2025-05-27 10:37:09,166 - INFO - Clicking Create Task button
+2025-05-27 10:37:16,346 - INFO - Filling task name: 'Task 3'
+2025-05-27 10:37:16,370 - INFO - Clicking Create Task button
+2025-05-27 10:37:23,535 - INFO - Filling task name: 'Task 4'
+2025-05-27 10:37:23,556 - INFO - Clicking Create Task button
+2025-05-27 10:37:30,746 - INFO - Filling task name: 'Task 5'
+2025-05-27 10:37:30,769 - INFO - Clicking Create Task button
+2025-05-27 10:37:37,947 - INFO - Filling task name: 'Task 6'
+2025-05-27 10:37:37,968 - INFO - Clicking Create Task button
+2025-05-27 10:37:45,140 - INFO - Filling task name: 'Task 7'
+2025-05-27 10:37:45,167 - INFO - Clicking Create Task button
+2025-05-27 10:37:52,339 - INFO - Filling task name: 'Task 8'
+2025-05-27 10:37:52,377 - INFO - Clicking Create Task button
+2025-05-27 10:37:59,557 - INFO - Filling task name: 'Task 9'
+2025-05-27 10:37:59,580 - INFO - Clicking Create Task button
+2025-05-27 10:38:06,747 - INFO - Filling task name: 'Task 10'
+2025-05-27 10:38:06,770 - INFO - Clicking Create Task button
+2025-05-27 10:38:13,938 - INFO - Filling task name: 'Task 11'
+2025-05-27 10:38:13,961 - INFO - Clicking Create Task button
+2025-05-27 10:38:21,134 - INFO - Filling task name: 'Task 12'
+2025-05-27 10:38:21,156 - INFO - Clicking Create Task button
+2025-05-27 10:38:28,331 - INFO - Filling task name: 'Task 13'
+2025-05-27 10:38:28,355 - INFO - Clicking Create Task button
+2025-05-27 10:38:35,520 - INFO - Filling task name: 'Task 14'
+2025-05-27 10:38:35,541 - INFO - Clicking Create Task button
+2025-05-27 10:38:42,719 - INFO - Filling task name: 'Task 15'
+2025-05-27 10:38:42,741 - INFO - Clicking Create Task button
+2025-05-27 10:38:49,920 - INFO - Filling task name: 'Task 16'
+2025-05-27 10:38:49,941 - INFO - Clicking Create Task button
+2025-05-27 10:38:57,116 - INFO - Filling task name: 'Task 17'
+2025-05-27 10:38:57,138 - INFO - Clicking Create Task button
+2025-05-27 10:39:04,309 - INFO - Filling task name: 'Task 18'
+2025-05-27 10:39:04,330 - INFO - Clicking Create Task button
+2025-05-27 10:39:11,496 - INFO - Filling task name: 'Task 19'
+2025-05-27 10:39:11,516 - INFO - Clicking Create Task button
+2025-05-27 10:39:18,710 - INFO - Filling task name: 'Task 20'
+2025-05-27 10:39:18,729 - INFO - Clicking Create Task button
+2025-05-27 10:39:25,914 - INFO - Filling task name: 'Task 21'
+2025-05-27 10:39:25,933 - INFO - Clicking Create Task button
+2025-05-27 10:39:33,115 - INFO - Filling task name: 'Task 22'
+2025-05-27 10:39:33,134 - INFO - Clicking Create Task button
+2025-05-27 10:39:40,314 - INFO - Filling task name: 'Task 23'
+2025-05-27 10:39:40,333 - INFO - Clicking Create Task button
+2025-05-27 10:39:47,520 - INFO - Filling task name: 'Task 24'
+2025-05-27 10:39:47,540 - INFO - Clicking Create Task button
+2025-05-27 10:39:54,730 - INFO - Filling task name: 'Task 25'
+2025-05-27 10:39:54,751 - INFO - Clicking Create Task button
+2025-05-27 10:40:01,915 - INFO - Filling task name: 'Task 26'
+2025-05-27 10:40:01,934 - INFO - Clicking Create Task button
+2025-05-27 10:40:09,101 - INFO - Filling task name: 'Task 27'
+2025-05-27 10:40:09,121 - INFO - Clicking Create Task button
+2025-05-27 10:40:16,292 - INFO - Filling task name: 'Task 28'
+2025-05-27 10:40:16,312 - INFO - Clicking Create Task button
+2025-05-27 10:40:23,466 - INFO - Filling task name: 'Task 29'
+2025-05-27 10:40:23,484 - INFO - Clicking Create Task button
+2025-05-27 10:40:30,671 - INFO - Filling task name: 'Task 30'
+2025-05-27 10:40:30,691 - INFO - Clicking Create Task button
+2025-05-27 10:40:35,036 - INFO - Counted visible tasks in 0.21 seconds
+2025-05-27 10:40:37,532 - INFO - Page load time: 436 ms

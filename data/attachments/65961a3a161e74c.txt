@@ -1,0 +1,29 @@
+2025-05-27 10:35:06,000 - INFO - Filling task name: 'Buy milk'
+2025-05-27 10:35:06,042 - INFO - Clicking Create Task button
+2025-05-27 10:35:08,187 - INFO - Tasks after add: ['Buy milk']
+2025-05-27 10:35:20,535 - INFO - Filling task name: 'Do laundry'
+2025-05-27 10:35:20,575 - INFO - Clicking Create Task button
+2025-05-27 10:35:22,707 - INFO - Tasks after add: ['Do laundry']
+2025-05-27 10:35:24,169 - INFO - Clicking Create Task with empty input
+2025-05-27 10:35:24,370 - INFO - Navigate back to main tasks
+2025-05-27 10:35:24,481 - INFO - Tasks after empty submission: []
+2025-05-27 10:35:25,789 - INFO - Filling task name field with: 'This is a very long task name that exceeds the 40 character limit for validation testing' (length: 88 characters)
+2025-05-27 10:35:25,981 - INFO - Validation error message: Name should be less than or equal to 40 characters
+2025-05-27 10:35:33,224 - INFO - Filling task name: 'Task 1: Buy groceries'
+2025-05-27 10:35:33,278 - INFO - Clicking Create Task button
+2025-05-27 10:35:37,426 - INFO - Added task 1: Task 1: Buy groceries
+2025-05-27 10:35:40,507 - INFO - Filling task name: 'Task 2: Call dentist'
+2025-05-27 10:35:40,535 - INFO - Clicking Create Task button
+2025-05-27 10:35:44,664 - INFO - Added task 2: Task 2: Call dentist
+2025-05-27 10:35:47,724 - INFO - Filling task name: 'Task 3: Review project documents'
+2025-05-27 10:35:47,750 - INFO - Clicking Create Task button
+2025-05-27 10:35:51,856 - INFO - Added task 3: Task 3: Review project documents
+2025-05-27 10:35:54,904 - INFO - Filling task name: 'Task 4: Schedule team meeting'
+2025-05-27 10:35:54,926 - INFO - Clicking Create Task button
+2025-05-27 10:35:59,027 - INFO - Added task 4: Task 4: Schedule team meeting
+2025-05-27 10:36:02,075 - INFO - Filling task name: 'Task 5: Update software licenses'
+2025-05-27 10:36:02,099 - INFO - Clicking Create Task button
+2025-05-27 10:36:06,216 - INFO - Added task 5: Task 5: Update software licenses
+2025-05-27 10:36:06,238 - INFO - All tasks after adding multiple: ['Task 1: Buy groceries', 'Task 2: Call dentist', 'Task 3: Review project documents', 'Task 4: Schedule team meeting', 'Task 5: Update software licenses']
+2025-05-27 10:36:06,238 - INFO - Expected tasks count: 5, Actual tasks count: 5
+2025-05-27 10:36:06,238 - INFO - All multiple tasks successfully added and verified
