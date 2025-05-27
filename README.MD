@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/python-v3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Playwright](https://img.shields.io/badge/playwright-latest-green.svg)](https://playwright.dev/)
-[![Pytest](https://img.shields.io/badge/pytest-latest-orange.svg)](https://pytest.org/)
-[![Allure](https://img.shields.io/badge/allure-reports-yellow.svg)](https://docs.qameta.io/allure/)
-[![Docker](https://img.shields.io/badge/docker-supported-blue.svg)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/python-v3.12+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+[![Playwright](https://img.shields.io/badge/playwright-latest-green.svg?style=for-the-badge&logo=playwright)](https://playwright.dev/)
+[![Pytest](https://img.shields.io/badge/pytest-latest-orange.svg?style=for-the-badge&logo=pytest)](https://pytest.org/)
+[![Allure](https://img.shields.io/badge/allure-reports-yellow.svg?style=for-the-badge&logo=allure)](https://docs.qameta.io/allure/)
+[![Docker](https://img.shields.io/badge/docker-supported-blue.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/shlomi10/EasySend/workflow.yml?label=CI%20Build&style=for-the-badge&logo=github-actions)](https://github.com/shlomi10/EasySend/actions)
 [![Allure Report](https://img.shields.io/badge/Allure%20Report-View%20Live-purple?style=for-the-badge&logo=github)](https://shlomi10.github.io/easySend/#)
 
