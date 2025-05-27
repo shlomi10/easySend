@@ -1,0 +1,3 @@
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Complete me'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:106 Tasks after marking complete: ['Complete me']

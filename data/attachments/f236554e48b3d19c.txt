@@ -1,0 +1,18 @@
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 1: Buy groceries'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:77 Added task 1: Task 1: Buy groceries
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 2: Call dentist'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:77 Added task 2: Task 2: Call dentist
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 3: Review project documents'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:77 Added task 3: Task 3: Review project documents
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 4: Schedule team meeting'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:77 Added task 4: Task 4: Schedule team meeting
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 5: Update software licenses'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:77 Added task 5: Task 5: Update software licenses
+INFO     tests.test_tasks:test_tasks.py:81 All tasks after adding multiple: ['Task 1: Buy groceries', 'Task 2: Call dentist', 'Task 3: Review project documents', 'Task 4: Schedule team meeting', 'Task 5: Update software licenses']
+INFO     tests.test_tasks:test_tasks.py:82 Expected tasks count: 5, Actual tasks count: 5
+INFO     tests.test_tasks:test_tasks.py:93 All multiple tasks successfully added and verified

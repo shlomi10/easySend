@@ -1,2 +1,0 @@
-INFO     pages.add_task_page:add_task_page.py:34 Filling task name field with: 'This is a very long task name that exceeds the 40 character limit for validation testing' (length: 88 characters)
-INFO     tests.test_tasks:test_tasks.py:56 Validation error message: Name should be less than or equal to 40 characters

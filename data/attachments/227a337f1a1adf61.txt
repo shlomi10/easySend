@@ -1,0 +1,61 @@
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 1'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 2'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 3'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 4'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 5'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 6'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 7'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 8'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 9'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 10'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 11'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 12'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 13'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 14'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 15'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 16'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 17'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 18'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 19'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 20'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 21'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 22'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 23'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 24'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 25'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 26'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 27'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 28'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 29'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     pages.add_task_page:add_task_page.py:27 Filling task name: 'Task 30'
+INFO     pages.add_task_page:add_task_page.py:29 Clicking Create Task button
+INFO     tests.test_tasks:test_tasks.py:175 Counted visible tasks in 0.26 seconds
