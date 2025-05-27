@@ -1,9 +1,0 @@
-2025-05-27 10:35:06,000 - INFO - Filling task name: 'Buy milk'
-2025-05-27 10:35:06,042 - INFO - Clicking Create Task button
-2025-05-27 10:35:08,187 - INFO - Tasks after add: ['Buy milk']
-2025-05-27 10:35:20,535 - INFO - Filling task name: 'Do laundry'
-2025-05-27 10:35:20,575 - INFO - Clicking Create Task button
-2025-05-27 10:35:22,707 - INFO - Tasks after add: ['Do laundry']
-2025-05-27 10:35:24,169 - INFO - Clicking Create Task with empty input
-2025-05-27 10:35:24,370 - INFO - Navigate back to main tasks
-2025-05-27 10:35:24,481 - INFO - Tasks after empty submission: []

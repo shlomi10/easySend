@@ -1,0 +1,11 @@
+2025-05-27 10:45:51,770 - INFO - Filling task name: 'Buy milk'
+2025-05-27 10:45:51,809 - INFO - Clicking Create Task button
+2025-05-27 10:45:53,952 - INFO - Tasks after add: ['Buy milk']
+2025-05-27 10:46:01,151 - INFO - Filling task name: 'Do laundry'
+2025-05-27 10:46:01,188 - INFO - Clicking Create Task button
+2025-05-27 10:46:03,339 - INFO - Tasks after add: ['Do laundry']
+2025-05-27 10:46:04,612 - INFO - Clicking Create Task with empty input
+2025-05-27 10:46:04,813 - INFO - Navigate back to main tasks
+2025-05-27 10:46:04,945 - INFO - Tasks after empty submission: []
+2025-05-27 10:46:06,126 - INFO - Filling task name field with: 'This is a very long task name that exceeds the 40 character limit for validation testing' (length: 88 characters)
+2025-05-27 10:46:06,335 - INFO - Validation error message: Name should be less than or equal to 40 characters
